@@ -1,0 +1,6 @@
+﻿.env
+venv/
+__pycache__/
+*.pyc
+task/solution.py
+results/archive/
